@@ -1,4 +1,4 @@
-# awesome-fc00 [![Awesome](img/awesome.svg)](https://github.com/sindresorhus/awesome) [![Chat on IRC](img/irc.svg)](irc://irc.fc00.io)
+# awesome-fc00
 Showing off all the awesomeness in fc00::/8
 
 # Libraries
